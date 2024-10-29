@@ -4,7 +4,7 @@
     "version": "0.0.1",
     "private": true,
     "scripts": {
-    "start": "pm2 start pm2.config.js"
+    "start": "./node_modules/node-red/red.js"
   },
     "dependencies": {
         "lodash": "^4.17.20",
