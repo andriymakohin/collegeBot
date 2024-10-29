@@ -1,0 +1,17 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "lodash": "^4.17.20",
+        "node-red": "^4.0.5",
+        "node-red-contrib-facebook-messenger-writer": "0.0.5",
+        "node-red-contrib-image-tools": "~2.1.1",
+        "node-red-contrib-mongodb3": "~2.0.1",
+        "node-red-contrib-ngrok": "^3.1.0",
+        "node-red-contrib-qrcode-generator": "~0.4.0",
+        "node-red-contrib-telegrambot": "~16.1.0",
+        "node-red-node-mongodb": "~0.2.5"
+    }
+}
